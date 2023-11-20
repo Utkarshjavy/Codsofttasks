@@ -1,0 +1,138 @@
+
+/* .App{
+    height: 400vh;
+} */
+.con1{
+    padding: 20px;
+    background-color:  #1e3932!important;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.ml8{
+    margin-left: 7%;
+    /* font-size: small; */
+    font-weight: bold;
+    text-align: left;
+}
+.reward-hero{
+    width: 100%;
+    /* height: auto; */
+    background-image: url('../assets/rewardimg.webp');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(212, 233, 226);
+padding: 16% 20px;
+}
+.rh-left{
+/* border: 2px solid red; */
+width:400px;
+margin: 0px 30px;
+}
+.mwl{
+    max-width: 280px;
+}
+.theflex{
+    row-gap: 20px;
+}
+.bd{
+    font-weight: 400;
+}
+.btn-green{
+    padding: 8px;
+    color: white;
+    background-color: #00754a;
+    border-radius: 20px;
+}
+.grclr{
+    color:  #00a862!important;
+}
+.second{
+    column-gap: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.h{
+    /* border: 2px solid red; */
+    max-width: 25%;
+    text-align: center;
+    align-items: center;
+    row-gap: 15px;
+}
+.cnt{
+    font-size: large;
+    font-weight: 400;
+}
+.first{
+    margin-top: 7%;
+    row-gap: 20px;
+}
+.choices{
+    background-color: rgba(212,233,226,.33)!important;
+    padding: 30px ;
+}
+.gdclr{
+    color: goldenrod;
+}
+.favdis > div{
+display: none;
+/* border: 2px solid red; */
+width: 50%;
+margin: auto;
+}
+.favdis{
+    padding: 20px;
+}
+.onec>div>img{
+   
+}
+.favdis{
+    background-color: rgb(212, 233, 226);
+}
+/* .onec{ */
+    /* border: ; */
+/* } */
+.dede{
+    /* border: 2px solid red; */
+}
+.onec>div>div{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    text-align: left;
+}
+.lessw{
+max-width: 47%;
+margin: auto;
+}
+.runner{
+    margin-top: 7%;
+    background-color: #f2f0eb!important;
+    padding: 30px;
+}
+.lesserw{
+    max-width: 40%;
+    margin-top: 20px;
+    margin: 0px auto;
+   
+}
+.container{
+    display: flex;
+    column-gap: 60px;
+    justify-content: center;
+    max-width: 90%;
+    text-align: left;
+    margin-top: 4%;
+}
+.container>div{
+    max-width: 40%;
+}
+.dark{
+    background-color: black;
+    width: 80%;
+    margin: auto;
+    height: 1px;
+}
